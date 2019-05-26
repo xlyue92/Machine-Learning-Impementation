@@ -5,3 +5,5 @@ Modeling practice and codes
    
    This example is approximation rather than prediction
 2) [Prophet Application on Stock Price](https://github.com/xlyue92/Machine_Learning_Impementation/blob/master/Prophet%20on%20S%26P%20500/Explore%20usage%20of%20Prophet%20on%20S%26P%20500%20stock%20price%20prediction.ipynb)
+
+   The example is basic use of Profphet from facebook
