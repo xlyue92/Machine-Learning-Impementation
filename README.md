@@ -11,3 +11,7 @@ Modeling practice and codes
 03) [LSTM RNN on Stock Price](https://github.com/xlyue92/Machine_Learning_Impementation/blob/master/LSTM%20prediction%20on%20near%20future%20of%20S%26P%20500%20stock%20prices/Introductory%20study%20of%20LSTM%20model%20on%20S%26P%20500%20stock%20price.ipynb)
    
     ##### Using elementary LSTM to make predictions on stock prices
+
+04) [European Soccer DS](https://github.com/xlyue92/Machine_Learning_Impementation/blob/master/eu_sc_ds/European%20soccer%20ds.ipynb)
+ 
+    ##### Simple example of knn clustering using euro sc player data
