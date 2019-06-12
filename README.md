@@ -12,6 +12,6 @@ Modeling practice and codes
    
     ##### Using elementary LSTM to make predictions on stock prices
 
-04) [European Soccer DS](https://github.com/xlyue92/Machine_Learning_Impementation/blob/master/eu_sc_ds/European%20soccer%20ds.ipynb)
+04) [European Soccer DS](https://github.com/xlyue92/Machine_Learning_Impementation/blob/master/eu_sc_ds/Euro%20FC%20data%20visualization%20%26%20analysis%20with%20machine%20learning.ipynb)
  
-    ##### Simple example of knn clustering using euro sc player data
+    ##### Data visualization of European FC with machine learning
