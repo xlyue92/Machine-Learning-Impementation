@@ -15,3 +15,6 @@ Modeling practice and codes
 04) [European Soccer DS](https://github.com/xlyue92/Machine_Learning_Impementation/blob/master/eu_sc_ds/Euro%20FC%20data%20visualization%20%26%20analysis%20with%20machine%20learning.ipynb)
  
     ##### Data visualization & analysis of European FC with SQL
+
+05) [Learning Bitcoin price DA](https://github.com/xlyue92/Machine_Learning_Impementation/blob/master/Bitcoin%20price%20prediction%20with%20RNN%20(LSTM)/Bitcoin%20DA.ipynb)
+    ##### Data analysis and deep learning on Bitcoin price prediction
