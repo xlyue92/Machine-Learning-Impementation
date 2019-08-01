@@ -18,3 +18,7 @@ Modeling practice and codes
 
 05) [Learning Bitcoin price DA](https://github.com/xlyue92/Machine_Learning_Impementation/blob/master/Bitcoin%20price%20prediction%20with%20RNN%20(LSTM)/Bitcoin%20DA.ipynb)
     ##### Data analysis and deep learning on Bitcoin price prediction
+
+06) [Tensorflow Neural Networks](https://github.com/xlyue92/Machine_Learning_Impementation/tree/master/Tensorflow%20Examples)
+
+    ##### Single, Multi layers NN, CNN, Transfer Learning
